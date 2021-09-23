@@ -1,5 +1,4 @@
-# hello-world! 
-Hey there!
+# Hey there!
 
 My name is David Dias and I love sushi!
 Ok, now a little more serious! (but for real, I love sushi).
